@@ -4,9 +4,7 @@ https://docs.xlwings.org/en/stable/quickstart.html
 in 5 minutes and give an output like the picture
 here: https://github.com/PercyCheng/Jacaranda-E/blob/master/William.png
 
-Parameter may be used:
-"Liam", "Noah", "William", "James", "Logan", "Benjamin", "Mason", "Elijah", "Oliver", "Jacob"
-1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+
 
 
 You will have 10 minutes to finish your answer.
@@ -23,3 +21,6 @@ Please submit directly to “Genevievechen1996@hotmail.com”
 
 
 # TODO: finish Your Code
+
+
+#Today I am writing code with Serena and Jada
